@@ -29,7 +29,7 @@ def set_custom_prompt():
 
 def load_llm():
     # """Loads the Llama-2 LLM model."""
-    model_name = "llama-2-7b-chat.ggmlv3.q8_0.bin" #llama-2-7b-chat.ggmlv3.q8_0.bin
+    model_name = "W:/Models/TheBloke/llama-2-7b-chat.ggmlv3.q8_0.bin" #llama-2-7b-chat.ggmlv3.q8_0.bin
     model_type = "llama"
     max_new_tokens = 30
     temperature = 0.5

@@ -5,7 +5,7 @@ from langchain.embeddings import HuggingFaceEmbeddings
 # from langchain.vectorstores import FAISS
 from langchain_community.vectorstores import FAISS
 
-DATA_PATH = "data/"
+DATA_PATH = "Data/"
 DB_FAISS_PATH = "vectorstores/db_faiss"
 
 #create vector database
