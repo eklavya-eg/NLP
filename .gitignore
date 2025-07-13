@@ -1,3 +1,5 @@
 *.bin
+*.faiss
+*.pkl
 
 __pycache__/
